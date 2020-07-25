@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProductAngularAssignment"
+    }
+  },
+  "defaultProject": "ProductAngularAssignment",
+  "cli": {
+    "analytics": "62859d44-5d72-4f1e-94fc-e052bc52f95b"
+  }
 }
